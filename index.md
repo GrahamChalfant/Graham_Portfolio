@@ -1,14 +1,21 @@
-# Project 1
+# Dissertation: Relationship Between Trump's Twtiter Sentiment and His Approval Ratings
 
 
-# Project 2
+# Healthcare Social Determinates of Health 
+
+
+# Advanced Data Anlaysis: Estimating Regression Variables 
 
 
 
-# Project 3
+# Data Management: Database Design 
 
 
-# project 4
+# Business Statistics 
 
-# Project 5
+
+# Analytics in Practice 
+
+
+# Pilot Flying J Data Analysis Competition (Winner) 
 
