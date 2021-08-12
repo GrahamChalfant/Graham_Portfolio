@@ -11,7 +11,7 @@ This project challenged my team and I to answer the following questions based on
 
 The SkillSet_Dataset file contains video game telemtric data from a cognitive study of a Complex SKill Leaning project. I was in charge of answering the first question. I accomplished this using a regression model. Key analysis and findings can be seen below.  
 
-The regression model was built by performing a simple linear regression for each variable and then selectingm the most informative variables. Variables were selected while considering two things: The variables' r-squared and the total number of selected variables. Building a solid model with informative variables was necessary, but the principle of parsimony also needed to be considered. 
+The regression model was built by performing a simple linear regression for each variable and then selecting the most informative variables. Variables were selected while considering two things: The variables' r-squared and the total number of selected variables. Building a solid model with informative variables was necessary, but the principle of parsimony also needed to be considered. 
 
 ![R-sqaured by Variable](https://user-images.githubusercontent.com/70036009/129126071-91d66901-c239-4499-8837-e1a6abe405db.png)
 
