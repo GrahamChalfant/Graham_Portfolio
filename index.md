@@ -29,7 +29,7 @@ Objective: What affects the expert level? How can the players improve their leve
 
 My team and I had to create a database for a hotel chain from the business probelm found in group_project_description_2020. We created an ER diagram in order to determing cardinality, relationships, and entites. The actual database was created in R using the RSQLite package, and this code can be seen in my Data_Management_Poject repository. 
 
-![ER Diagram](https://github.com/GrahamChalfant/Data_Management_Project/blob/main/DM-PartA_final.pdf)
+![ER Diagram](https://github.com/GrahamChalfant/Graham_Portfolio/blob/main/images/ER_Diagram_Part.PNG)
 
 ### Business Statistics 
 
