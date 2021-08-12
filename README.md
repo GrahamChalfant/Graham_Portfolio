@@ -5,9 +5,9 @@
 
 This project challenged my team and I to answer the following questions based on the SkillCraft_Dataset.csv: 
 
-Question 1: What affects the expert level? How can the players improve their level? 
-Question 2: Are there any identifiable sets or “groups” of players within the data? If so, what are their distinguishing features? 
-Question 3: Investigate the association of the different variables. How many hidden factors are related to these characteristics? Can you interpret these factors?
+1: What affects the expert level? How can the players improve their level? 
+2: Are there any identifiable sets or “groups” of players within the data? If so, what are their distinguishing features? 
+3: Investigate the association of the different variables. How many hidden factors are related to these characteristics? Can you interpret these factors?
 
 The SkillSet_Dataset file contains video game telemtric data from a cognitive study of a Complex SKill Leaning project. I was in charge of answering the first question. I accomplished this by the analysis featured below. 
 
