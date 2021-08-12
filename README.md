@@ -11,3 +11,5 @@ The variables above were sorted by greatest r-squared in descending order. These
 
 ![Multiple LM R-squared](https://user-images.githubusercontent.com/70036009/129126196-9b064030-e62c-486a-ae9e-93e51074c79e.png)
 
+Not all varaibels were included in the model to adhear to the principal of parciomony. 
+
