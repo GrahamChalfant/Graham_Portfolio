@@ -3,14 +3,14 @@
 
 ### [Advanced Data Analysis: Regression Variable Selection ](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
 
-This project was based on the SkillCraft_Dataset.csv. The SkillSet_Dataset file contains video game telemtric data from a cognitive study of a Complex SKill Leaning project.
+This project was based on the SkillCraft_Dataset.csv. The SkillSet_Dataset file contains video game telemetric data from a cognitive study of a Complex SKill Leaning project.
 
 Objective: What affects the expert level? How can the players improve their level?
 
 - Created loop to find r-squared of each independent variable
-- Rearanged data using dplyr package to list variables in order of r-squred
-- Craeted second loop to add varaibles to multiple linear regression one at a time
-- Visulized to determine optimal variables to include in final model while adhearing to principle of parsimony
+- Rearranged data using dplyr package to list variables in order of r-squared
+- Created second loop to add variables to multiple linear regression one at a time
+- Visualised to determine optimal variables to include in the final model while adhering to the principle of parsimony
 
 ![R-sqaured by Variable](https://user-images.githubusercontent.com/70036009/129126071-91d66901-c239-4499-8837-e1a6abe405db.png)
 
