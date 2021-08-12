@@ -1,7 +1,7 @@
 # Graham_Portfolio
-## My projects
+# My projects
 
-[Advanced Data Analysis: Regression Variable Selection ](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
+## [Advanced Data Analysis: Regression Variable Selection ](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
 
 The image displayed below is the r-squared associated with each predictor variable. 
 
