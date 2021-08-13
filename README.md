@@ -18,10 +18,10 @@ Objective: What affects the expert level? How can the players improve their leve
 - Created the second loop to add variables to multiple linear regression one at a time
 - Visualised to determine optimal variables to include in the final model while adhering to the principle of parsimony
 
-![R-sqaured by Variable](https://github.com/GrahamChalfant/Graham_Portfolio/blob/main/images/rsquared_by_variable.png)
+![](https://github.com/GrahamChalfant/Graham_Portfolio/blob/main/images/rsquared_by_variable.png)
 
 
-![Multiple LM R-squared](https://github.com/GrahamChalfant/Graham_Portfolio/blob/main/images/multiple_lm_rsquared.png)
+![](https://github.com/GrahamChalfant/Graham_Portfolio/blob/main/images/multiple_lm_rsquared.png)
 
 
 
@@ -31,7 +31,7 @@ My team and I had to create a database for a hotel chain from the business probl
 
 Below is part of the ER diagram created for this project. 
 
-![ER Diagram](https://github.com/GrahamChalfant/Graham_Portfolio/blob/main/images/ER_Diagram_Part.png)
+![](https://github.com/GrahamChalfant/Graham_Portfolio/blob/main/images/ER_Diagram_Part.png)
 
 ### Business Statistics 
 
