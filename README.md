@@ -1,7 +1,7 @@
 # Graham Chalfant Portfolio
 ## My projects:
 
-### Dissertation: Relationship Between Trump's Twtiter Sentiment and His Approval Ratings
+### Dissertation: Relationship Between Trump's Twitter Sentiment and His Approval Ratings
 
 
 ### Healthcare Social Determinates of Health 
@@ -15,7 +15,7 @@ Objective: What affects the expert level? How can the players improve their leve
 
 - Created loop to find r-squared of each independent variable
 - Rearranged data using dplyr package to list variables in order of r-squared
-- Created second loop to add variables to multiple linear regression one at a time
+- Created the second loop to add variables to multiple linear regression one at a time
 - Visualised to determine optimal variables to include in the final model while adhering to the principle of parsimony
 
 ![R-sqaured by Variable](https://github.com/GrahamChalfant/Graham_Portfolio/blob/main/images/rsquared_by_variable.png)
@@ -42,7 +42,6 @@ Below is part of the ER diagram created for this project.
 ### Pilot Flying J Data Analysis Competition (Winner) 
 
 
-### Denstu Jaguar / Land Rover: Competitor Advertising Spend Deepdive 
-
+### Denstu Jaguar / Land Rover: Competitor Advertising Spend Deep-Dive 
 
 
