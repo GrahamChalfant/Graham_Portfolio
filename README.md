@@ -47,6 +47,8 @@ Key decisions and findings include:
 
 ![](/images/AIP_Model_Comparison.png)
 
+There is a typo in the chart below
+
 ![](/images/AIP_Confusion_Matrix_Costs.png)
 
 If I could do this project over, I would have narrowed our focus on a smaller number of models.
