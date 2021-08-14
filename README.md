@@ -36,7 +36,21 @@ Below is part of the ER diagram created for this project.
 ### Business Statistics 
 
  
-### Analytics in Practice 
+### [Customer Transaction Prediction Project](https://github.com/GrahamChalfant/Customer_Transaction_Prediction_Project)
+
+During my master's program, my team and I had to create a customer transaction prediction system. We applied various ML models, including GLM, Decision Trees, SVM, and Regression.
+
+Key decisions and findings include:
+1. Applied various data balacing methods to the
+2. example
+3. 
+
+![](/images/AIP_Model_Comparison.png)
+
+![](/images/AIP_Confusion_Matrix_Costs.png)
+
+If I could do this project over, I would have narrowed our focus on a smaller number of models.
+
 
 
 ### Pilot Flying J Data Analysis Competition (Winner) 
