@@ -21,19 +21,15 @@ I had to answer **question one**. Multiple linear regression analysis was applie
 
 I carried out the data preparation and modelling in r-studio. I found r-studio to be much more robust and allow more room for customization. So, I carried out the complete analysis in r-studio and then confirmed my findings in SPSS. Major decisions and key findings included: 
 
-- Created loop to find r-squared of each independent variable
-- Rearranged data using dplyr package to list variables in order of r-squared
-- Created the second loop to add variables to multiple linear regression one at a time
-- Visualised to determine optimal variables to include in the final model while adhering to the principle of parsimony
+- Tested assumptions: normality, homoscedasticity, linearity, multicollinearity
+- Found r-squared of each independent varaible using loops
+- Rearranged data using dplyr to order variables in order of r-squared
+- Created MLR adding each independent variable, one at a time, based on r-squared in descening order using a loop
+- Visualised MLR's adjusted r-squred by each varaible added in order to deteming optimal number of variable 
 
-<img src="/images/multicollinearity.png" width="800" >
+The image below shows the MLR's adjusted r-squared as each respective variable was added. 
+
 <img src="/images/multiple_lm_rsquared.png" width="800" >
-
-
-![](/images/multicollinearity.png)
-
-
-![](/images/multiple_lm_rsquared.png)
 
 
 
