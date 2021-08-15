@@ -9,9 +9,13 @@
 
 ### [Advanced Data Analysis: Regression Variable Selection ](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
 
-This project was based on the SkillCraft_Dataset.csv. The SkillSet_Dataset file contains video game telemetric data from a cognitive study of a Complex SKill Leaning project.
+The objective of this project was to display an understanding of SPSS and specific ML algorithms. 
 
-Objective: What affects the expert level? How can the players improve their level?
+My team and I answered the following questions about the SkillSet_Dataset file, which contained video game telemetric data from a cognitive study of a Complex SKill Leaning project.
+
+1. What affects the expert level? How can the players improve their level? 
+2. Are there any identifiable sets or “groups” of players within the data? If so, what are their distinguishing features? 
+3. Investigate the association of the different variables. How many hidden factors are related to these characteristics? Can you interpret these factors?
 
 - Created loop to find r-squared of each independent variable
 - Rearranged data using dplyr package to list variables in order of r-squared
