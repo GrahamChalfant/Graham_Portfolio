@@ -29,7 +29,7 @@ I carried out the data preparation and modelling in r-studio. I found r-studio t
 
 The image below shows the MLR's adjusted r-squared as each respective variable was added. The final model needed to consider two things: total adjusted r-squared and the principal of parsimony. From the below image, I felt that the optimal model contained all variables until "TotalHours." This model had an adjusted r-squared which was 1% less than the maximum but contained three fewer variables. 
 
-<img src="https://github.com/GrahamChalfant/Graham_Portfolio/blob/main/images/multiple_lm_rsquared.png" width="800" >
+<img src="/images/multiple_lm_rsquared.png" width="800" >
 
 
 
