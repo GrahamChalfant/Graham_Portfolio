@@ -27,7 +27,7 @@ I carried out the data preparation and modelling in r-studio. I found r-studio t
 - Created MLR adding each independent variable, one at a time, based on r-squared in descening order using a loop
 - Visualised MLR's adjusted r-squred by each varaible added in order to deteming optimal number of variable 
 
-The image below shows the MLR's adjusted r-squared as each respective variable was added. 
+The image below shows the MLR's adjusted r-squared as each respective variable was added. The final model needed to consider two things: total adjusted r-squared and the principal of parsimony. From the below image, I felt that the optimal model contained all variables until "TotalHours." This model had an adjusted r-squared which was 1% less than the maximum but contained three fewer variables. 
 
 <img src="https://github.com/GrahamChalfant/Graham_Portfolio/blob/main/images/multiple_lm_rsquared.png" width="800" >
 
