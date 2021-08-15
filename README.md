@@ -26,6 +26,7 @@ I carried out the data preparation and modelling in r-studio. I found r-studio t
 - Created the second loop to add variables to multiple linear regression one at a time
 - Visualised to determine optimal variables to include in the final model while adhering to the principle of parsimony
 
+❮img src="images/multicollinearity.png" width="100" ❯
 ![](/images/multicollinearity.png)
 
 
