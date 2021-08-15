@@ -11,18 +11,22 @@
 
 The objective of this project was to display an understanding of SPSS and specific ML algorithms. 
 
-My team and I answered the following questions about the SkillSet_Dataset file, which contained video game telemetric data from a cognitive study of a Complex SKill Leaning project.
+My team and I answered the following questions about the SkillSet_Dataset file, which contains video game telemetric data from a cognitive study of a Complex SKill Leaning project.
 
 1. What affects the expert level? How can the players improve their level? 
 2. Are there any identifiable sets or “groups” of players within the data? If so, what are their distinguishing features? 
 3. Investigate the association of the different variables. How many hidden factors are related to these characteristics? Can you interpret these factors?
+
+I had to answer **question one**. Multiple linear regression analysis was applied to uncover what influenced player level. I chose regression analysis because of its ability to explain the outcome variable based on the relative contribution of the predictor variables.
+
+I carried out the data preparation and modelling in r-studio. I found r-studio to be much more robust and allow more room for customization. So, I carried out the complete analysis in r-studio and then confirmed my findings in SPSS. Major decisions and key findings included: 
 
 - Created loop to find r-squared of each independent variable
 - Rearranged data using dplyr package to list variables in order of r-squared
 - Created the second loop to add variables to multiple linear regression one at a time
 - Visualised to determine optimal variables to include in the final model while adhering to the principle of parsimony
 
-![](/images/rsquared_by_variable.png)
+![](/images/multicollinearity.png)
 
 
 ![](/images/multiple_lm_rsquared.png)
