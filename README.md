@@ -29,7 +29,7 @@ I carried out the data preparation and modelling in r-studio. I found r-studio t
 
 The image below shows the MLR's adjusted r-squared as each respective variable was added. 
 
-<img src="/images/multiple_lm_rsquared.png" width="800" >
+<img src="/images/multiple_lm_rsquared.png" width="600" >
 
 
 
