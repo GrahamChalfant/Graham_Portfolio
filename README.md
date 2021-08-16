@@ -9,7 +9,7 @@
 
 ### [Advanced Data Analysis: MLR Analysis](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
 
-- Used MLR in order to determine the influence each predictor variables on the outcome variable
+- Used MLR in order to determine the influence of each predictor variable on the outcome variable
 - Found r-squared of each independent variable using loops
 - Rearranged data using dplyr to order variables in order of r-squared
 - Created MLR adding each independent variable, one at a time, based on r-squared in descending order using a loop
@@ -23,7 +23,9 @@ The image below shows the MLR's adjusted r-squared as each respective variable w
 
 ### [Data_Management_Project: Database Design](https://github.com/GrahamChalfant/Data_Management_Project)
 
-My team and I had to create a database for a hotel chain from the business problem found in group_project_description_2020. We created an ER diagram in order to determine cardinality, relationships, and entities. The actual database was created in R using the RSQLite package, and this code can be seen in my Data_Management_Poject repository.
+- Created an ER diagram in order to determine entities, relationships, and cardinalities 
+- Used diagram guide database creation in r-studio using the RSQLite package
+- Entered fake data in order to run queries and test the database 
 
 Below is part of the ER diagram created for this project. 
 
