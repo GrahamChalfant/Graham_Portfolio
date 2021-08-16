@@ -28,7 +28,7 @@
 
 #### Database Design
 - Created an ER diagram in order to determine entities, relationships, and cardinalities 
-- Used diagram guide database creation in r-studio using the RSQLite package
+- Used diagram to guide database creation in r-studio using the RSQLite package
 - Entered fake data in order to run queries and test the database 
 
 Below is part of the ER diagram created for this project. 
@@ -40,7 +40,6 @@ Below is part of the ER diagram created for this project.
 - Scraped over 600,000 observations from UK Food Standard Agency API
 - Used dplyr to clean and format data 
 - Visualized geolocation data and hygiene business types using mapdeck and ggplot2, respectively
-- Created interactive R Shiny dashboard of Visualizations 
 
 ![](/images/shinydash.png)
 
