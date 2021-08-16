@@ -41,7 +41,7 @@ Below is part of the ER diagram created for this project.
 - Used dplyr to clean and format data 
 - Visualized geolocation data and hygiene business types using mapdeck and ggplot2, respectively
 
-![](/images/shinydash.png)
+![](/images/shiny_dash_final.png)
 
 ### Business Statistics 
 
