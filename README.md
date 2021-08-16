@@ -10,12 +10,12 @@
 ### [Advanced Data Analysis: MLR Analysis](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
 
 - Tested assumptions: normality, homoscedasticity, linearity, multicollinearity
-- Found r-squared of each independent varaible using loops
+- Found r-squared of each independent variable using loops
 - Rearranged data using dplyr to order variables in order of r-squared
-- Created MLR adding each independent variable, one at a time, based on r-squared in descening order using a loop
-- Visualised MLR's adjusted r-squred by each varaible added in order to deteming optimal number of variable 
+- Created MLR adding each independent variable, one at a time, based on r-squared in descending order using a loop
+- Visualised MLR's adjusted r-squared by each variable added in order to determine the optimal number of variable 
 
-The image below shows the MLR's adjusted r-squared as each respective variable was added. The final model needed to consider two things: total adjusted r-squared and the principal of parsimony. From the below image, I felt that the optimal model contained all variables until "TotalHours." This model had an adjusted r-squared which was 1% less than the maximum but contained three fewer variables. SPSS found the same variabels as the optimal choice with the exeption of "SelectByHotKeys," which was deamed as insignificant and removed. 
+The image below shows the MLR's adjusted r-squared as each respective variable was added. The final model needed to consider two things: total adjusted r-squared and the principal of parsimony. From the below image, I felt that the optimal model contained all variables until "TotalHours." This model had an adjusted r-squared which was 1% less than the maximum but contained three fewer variables. SPSS found the same variables as the optimal choice with the exception of "SelectByHotKeys," which was deemed as insignificant and removed. 
 
 ![](/images/multiple_lm_rsquared.png)
 
@@ -37,7 +37,7 @@ Below is part of the ER diagram created for this project.
 During my master's program, my team and I had to create a customer transaction prediction system. We applied various ML models, including GLM, Decision Trees, SVM, and Regression.
 
 Key decisions and findings include:
-1. Applied various data balacing methods to the
+1. Applied various data balancing methods to the
 2. example
 3. 
 
