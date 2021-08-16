@@ -24,8 +24,9 @@
 
 
 
-### [Data_Management_Project: Database Design](https://github.com/GrahamChalfant/Data_Management_Project)
+### [Data_Management: Database Design and R Shiny Dashboard](https://github.com/GrahamChalfant/Data_Management_Project)
 
+#### Database Design
 - Created an ER diagram in order to determine entities, relationships, and cardinalities 
 - Used diagram guide database creation in r-studio using the RSQLite package
 - Entered fake data in order to run queries and test the database 
@@ -33,6 +34,8 @@
 Below is part of the ER diagram created for this project. 
 
 ![](/images/ER_Diagram_Part.png)
+
+#### R Shiny Dashboard
 
 ### Business Statistics 
 
