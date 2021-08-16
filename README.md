@@ -5,6 +5,7 @@
 
 ### Dissertation: Relationship Between Trump's Twitter Sentiment and His Approval Ratings
 
+![](/images/wordcloud_trump_twitter_sentiment.png)
 
 ### Social Determinates of Health 
 
