@@ -37,6 +37,8 @@ Below is part of the ER diagram created for this project.
 
 #### R Shiny Dashboard
 
+![](/images/shinydash.png)
+
 ### Business Statistics 
 
  
