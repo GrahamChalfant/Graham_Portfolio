@@ -37,6 +37,11 @@ Below is part of the ER diagram created for this project.
 
 #### R Shiny Dashboard
 
+- Scraped over 600,000 observations from UK Food Standard Agency API
+- Used dplyr to clean and format data 
+- Visualized geolocation data and hygiene business types using mapdeck and ggplot2, respectively
+- Created interactive R Shiny dashboard of Visualizations 
+
 ![](/images/shinydash.png)
 
 ### Business Statistics 
