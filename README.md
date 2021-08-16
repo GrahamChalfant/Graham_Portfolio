@@ -4,18 +4,19 @@
 ### Dissertation: Relationship Between Trump's Twitter Sentiment and His Approval Ratings
 
 
-### Healthcare Social Determinates of Health 
+### Social Determinates of Health 
 
 
 ### [Advanced Data Analysis: MLR Analysis](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
 
+**Project At A Glance**
 - Used MLR in order to determine the influence of each predictor variable on the outcome variable
 - Found r-squared of each independent variable using loops
 - Rearranged data using dplyr to order variables in order of r-squared
 - Created MLR adding each independent variable, one at a time, based on r-squared in descending order using a loop
 - Visualised MLR's adjusted r-squared by each variable added in order to determine the optimal number of variables 
 
-The image below shows the MLR's adjusted r-squared as each respective variable was added. The final model needed to consider two things: total adjusted r-squared and the principal of parsimony. From the below image, I felt that the optimal model contained all variables until "TotalHours." This model had an adjusted r-squared which was 1% less than the maximum but contained three fewer variables. 
+**Adjusted r-squared per variable added to MLR.** The final model needed to consider two things: total adjusted r-squared and the principal of parsimony. From the below image, I felt that the optimal model contained all variables until "TotalHours." This model had an adjusted r-squared which was 1% less than the maximum but contained three fewer variables. 
 
 ![](/images/multiple_lm_rsquared.png)
 
@@ -36,12 +37,7 @@ Below is part of the ER diagram created for this project.
  
 ### [Customer Transaction Prediction Project](https://github.com/GrahamChalfant/Customer_Transaction_Prediction_Project)
 
-During my master's program, my team and I had to create a customer transaction prediction system. We applied various ML models, including GLM, Decision Trees, SVM, and Regression.
-
-Key decisions and findings include:
-1. Applied various data balancing methods to the
-2. example
-3. 
+- Applied multiple LM models to 
 
 ![](/images/AIP_Model_Comparison.png)
 
