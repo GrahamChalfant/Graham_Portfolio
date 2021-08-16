@@ -34,7 +34,7 @@
 
 Below is part of the ER diagram created for this project. 
 
-![](/images/ER_Diagram_Part.png)
+![](/images/ER_diagram.png)
 
 #### R Shiny Dashboard
 
