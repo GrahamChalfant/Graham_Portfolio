@@ -32,7 +32,7 @@
 - Used diagram to guide database creation in r-studio using the RSQLite package
 - Entered fake data in order to run queries and test the database 
 
-Below is part of the ER diagram created for this project. 
+Below is the ER diagram created for this project. 
 
 ![](/images/ER_diagram.png)
 
