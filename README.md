@@ -1,5 +1,7 @@
-# Graham Chalfant Portfolio
-## My projects:
+# Graham Chalfant's Projects
+
+## About Me
+
 
 ### Dissertation: Relationship Between Trump's Twitter Sentiment and His Approval Ratings
 
