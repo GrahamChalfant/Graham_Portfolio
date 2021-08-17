@@ -36,10 +36,12 @@ Below is the ER diagram created for this project.
 **Project At A Glance**
 - Manupulated and Visualized supermarket transaction data
 - Used null hypthesis testing and the estimation approach to determine the effects of predictor variables on the dependent variable 
-- Discovered that the new marketing campaign (intrial) influenced store's sales gain t(483.08) = -5.7173, P-value = 1.44e-08
-- Additionally, discovered that each store type was infleunced differently by the marketing campaign 
+- The new marketing campaign (intrial) influenced store's sales gain t(483.08) = -5.7173, P-value = 1.44e-08
+- Thh relationship between outlttype + intrial and percent sales gain is statistically significant   
 
-![]()
+The chart below shows the 95% confidence intervals for sales gain percentage for each store controlling for the outlet type, marketing campaign (intrial), and staff turnover. 
+
+![](/images/percent%20sales%20gain%20controlling%20for%20outlettype%20and%20staff%20turnover.png)
 
  
 ### [Advanced Data Analysis: MLR Analysis](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
