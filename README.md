@@ -82,7 +82,7 @@ The graph below shows the two cost scenarios which were estimated based on annua
 
 This was my first experience with data analysis. The work is no longer a good representation of my current projects but it's a great memory for me!
 
-Below is an advanced filter I created with macros to show sales by month for specific bundles of goods. The idea was that if there was a spike in sales the same month a promotion was applied to said bundle, then the promotion had an impact. The image below is not filtered for a specific bundle of goods. From this we can see that item sales were fairly constant with hints of seasonality. 
+Below is question four of four from the Excel workbook I submitted for the competition. It is an advanced filter which was created with macros to show sales by month for specific bundles of goods. The idea was that if there was a spike in sales the same month a promotion was applied to said bundle, then the promotion had an impact. The image below is not filtered for a specific bundle of goods. From this we can see that item sales were fairly constant with hints of seasonality. 
 
 ![](/images/pilot_flying_j_q4.png)
 
