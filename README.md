@@ -29,7 +29,7 @@ Below is the ER diagram created for this project.
 - Used dplyr to clean and format > 500,000 observations from Food Standard Agency  
 - Visualized geolocation data and hygiene business types and ratings using mapdeck and ggplot2, respectively
 
-![](/images/shiny_dash_final.png)
+![](/images/shiny_dash_final.png | hight = 100)
 
 ### Business Statistics 
 
