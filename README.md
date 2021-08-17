@@ -41,7 +41,7 @@ Below is the ER diagram created for this project.
 
 The chart below shows the 95% confidence intervals for sales gain percentage for each store controlling for the outlet type, marketing campaign (intrial), and staff turnover. 
 
-![](/images/percent%20sales%20gain%20controlling%20for%20outlettype%20and%20staff%20turnover.png){:height="50%"}
+![](/images/percent%20sales%20gain%20controlling%20for%20outlettype%20and%20staff%20turnover.png)
 
  
 ### [Advanced Data Analysis: MLR Analysis](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
