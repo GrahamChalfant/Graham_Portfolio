@@ -10,7 +10,7 @@
 - Calculated Trump's average daily Twitter sentiment using dplyr and a lexicon sentiment analysis approach 
 - Used linear regressions to determine the strength of the connection between Trump's Twitter sentiment and approval ratings 
 
-
+Below is a wordcloud of Trump's most frequently used positive and negative tweets. 
 ![](/images/wordcloud_trump_twitter_sentiment.png)
 
 ### Social Determinates of Health 
