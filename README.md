@@ -10,19 +10,6 @@
 ### Social Determinates of Health 
 
 
-### [Advanced Data Analysis: MLR Analysis](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
-
-**Project At A Glance**
-- Used MLR in order to determine the influence of each predictor variable on the outcome variable
-- Found r-squared of each independent variable using loops
-- Rearranged data using dplyr to order variables in order of r-squared
-- Created MLR adding each independent variable, one at a time, based on r-squared in descending order using a loop
-- Visualised MLR's adjusted r-squared by each variable added in order to determine the optimal number of variables 
-
-**Adjusted r-squared per variable added to MLR.** The final model needed to consider two things: total adjusted r-squared and the principal of parsimony. From the below image, I felt that the optimal model contained all variables until "TotalHours." This model had an adjusted r-squared which was 1% less than the maximum but contained three fewer variables. 
-
-![](/images/multiple_lm_rsquared.png)
-
 
 
 ### [Data_Management: Database Design and R Shiny Dashboard](https://github.com/GrahamChalfant/Data_Management_Project)
@@ -46,6 +33,29 @@ Below is the ER diagram created for this project.
 
 ### Business Statistics 
 
+**Project At A Glance**
+- Manupulated and Visualized supermarket transaction data
+- Used null hypthesis testing and the estimation approach to determine the effects of predictor variables on the dependent variable 
+- Discovered that the new marketing campaign (intrial) influenced store's sales gain t(483.08) = -5.7173, P-value = 1.44e-08
+- Additionally, discovered that each store type was infleunced differently by the marketing campaign 
+
+![]()
+
+ 
+### [Advanced Data Analysis: MLR Analysis](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
+
+**Project At A Glance**
+- Used MLR in order to determine the influence of each predictor variable on the outcome variable
+- Found r-squared of each independent variable using loops
+- Rearranged data using dplyr to order variables in order of r-squared
+- Created MLR adding each independent variable, one at a time, based on r-squared in descending order using a loop
+- Visualised MLR's adjusted r-squared by each variable added in order to determine the optimal number of variables 
+
+**Adjusted r-squared per variable added to MLR.** The final model needed to consider two things: total adjusted r-squared and the principal of parsimony. From the below image, I felt that the optimal model contained all variables until "TotalHours." This model had an adjusted r-squared which was 1% less than the maximum but contained three fewer variables. 
+
+![](/images/multiple_lm_rsquared.png)
+
+ 
  
 ### [Customer Transaction Prediction Project](https://github.com/GrahamChalfant/Customer_Transaction_Prediction_Project)
 
