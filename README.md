@@ -80,6 +80,3 @@ If I could do this project over, I would have narrowed our focus on a smaller nu
 - Presented project workbook and insights to the Pilot Merchandising team at the Pilot headquarters
 
 
-### Denstu Jaguar / Land Rover: Competitor Advertising Spend Deep-Dive 
-
-
