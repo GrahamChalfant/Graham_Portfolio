@@ -3,7 +3,13 @@
 ## About Me
 
 
-### Dissertation: Relationship Between Trump's Twitter Sentiment and His Approval Ratings
+### [Dissertation: The Power of @realDonalTrump]()
+
+- Analyzed Trump’s 16,000 presidential tweets to measure their influence on his approval ratings
+- Calculated Trump’s average daily Twitter sentiment using dplyr and a lexicon sentiment analysis approach 
+- Created visually informative graphs displaying Trump’s Twitter activity and approval ratings over time 
+- Used linear regressions to determine strength of connection between Trump’s Twitter sentiment and approval ratings 
+
 
 ![](/images/wordcloud_trump_twitter_sentiment.png)
 
