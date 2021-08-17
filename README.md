@@ -80,6 +80,12 @@ Below is the ER diagram created for this project.
 - Created visually impactful Excel workbook using conditional formatting, pivot tables, and INDEX MATCH
 - Presented project workbook and insights to the Pilot Merchandising team at the Pilot headquarters
 
+This was my first experience with data analysis. The work itself is outdated, but its a great memory for me!
+
+Below is an advanced filter I created with macros to show sales by month for specific bundles of goods. The idea was that if there was a spike in sales the same month a promotion was applied to said bundle, then the promotion had an impact. 
+
+![](/main/images/pilot_flying_j_q4.png)
+
 
    
 
