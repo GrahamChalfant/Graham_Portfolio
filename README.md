@@ -62,6 +62,9 @@ If I could do this project over, I would have narrowed our focus on a smaller nu
 
 
 ### Pilot Flying J Data Analysis Competition (Winner) 
+- Led team of three to win the competition out of 500 students by assigning work, setting deadlines, framing the business problem, and coaching team on most effective way to present the data
+- Created visually impactful Excel workbook using conditional formatting, pivot tables, and INDEX MATCH
+- Presented project workbook and insights to the Pilot Merchandising team at the Pilot headquarters
 
 
 ### Denstu Jaguar / Land Rover: Competitor Advertising Spend Deep-Dive 
