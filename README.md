@@ -75,7 +75,7 @@ The graph below shows the two cost scenarios which were estimated based on annua
 
 
 
-### Pilot Flying J Data Analysis Competition (Winner) 
+### [Pilot Flying J Data Analysis Competition](https://github.com/GrahamChalfant/Data_Analysis_Competition_Pilot_Flying_J) 
 - Led team of three to win the competition out of 500 students by assigning work, setting deadlines, framing the business problem, and coaching team on most effective way to present the data
 - Created visually impactful Excel workbook using conditional formatting, pivot tables, and INDEX MATCH
 - Presented project workbook and insights to the Pilot Merchandising team at the Pilot headquarters
