@@ -38,8 +38,8 @@ Below is the ER diagram created for this project.
 
 #### R Shiny Dashboard
 
-- Scraped over 600,000 observations from UK Food Standard Agency API
-- Used dplyr to clean and format data 
+- Generated R script to scrape XML API hygiene rating data from UK Food Standard Agency API
+- Used dplyr to clean and format > 500,000 observations from Food Standard Agency  
 - Visualized geolocation data and hygiene business types and ratings using mapdeck and ggplot2, respectively
 
 ![](/images/shiny_dash_final.png)
