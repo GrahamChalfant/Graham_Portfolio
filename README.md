@@ -84,7 +84,7 @@ This was my first experience with data analysis. The work itself is outdated, bu
 
 Below is an advanced filter I created with macros to show sales by month for specific bundles of goods. The idea was that if there was a spike in sales the same month a promotion was applied to said bundle, then the promotion had an impact. 
 
-![](/main/images/pilot_flying_j_q4.png)
+![](/images/pilot_flying_j_q4.png)
 
 
    
