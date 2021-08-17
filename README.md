@@ -62,15 +62,16 @@ Below is the ER diagram created for this project.
  
 ### [Customer Transaction Prediction Project](https://github.com/GrahamChalfant/Customer_Transaction_Prediction_Project)
 
-- Applied multiple LM models to 
+- Found optimal ML models by testing different parameter settings for each model, namely partition size, variable selection based on information gain, and various sampling methods
+- Defined best performing model using accuracy, recall, f-score, and precision
+- Created cost matrices for based on business problem to estimate profit for each model in a high and low cost scenario 
+
 
 ![](/images/AIP_Model_Comparison.png)
 
-There is a typo in the chart below
 
 ![](/images/AIP_Confusion_Matrix_Costs.png)
 
-If I could do this project over, I would have narrowed our focus on a smaller number of models.
 
 
 
