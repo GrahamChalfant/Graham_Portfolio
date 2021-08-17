@@ -69,7 +69,7 @@ Below is the ER diagram created for this project.
 The graph below shows each models performance by partition on accuracy, f-score, precision, and recall. 
 ![](/images/AIP_Model_Comparison.png)
 
-The graph below shows the two cost scenarios which were estimated based on annual mortgage payments in the UK. 
+The graph below shows the two cost scenarios which were estimated based on annual mortgage payments in the UK. Profits would be mortgage payments recieved by the bank and costs are advertising costs. 
 ![](/images/AIP_Confusion_Matrix_Costs.png)
 
 
