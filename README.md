@@ -15,7 +15,6 @@
 ### [Data_Management: Database Design and R Shiny Dashboard](https://github.com/GrahamChalfant/Data_Management_Project)
 
 #### Database Design
-**Project At A Glance**
 - Created an ER diagram in order to determine entities, relationships, and cardinalities 
 - Used diagram to guide database creation in r-studio using the RSQLite package
 - Entered fake data in order to run queries and test the database 
@@ -25,29 +24,24 @@ Below is the ER diagram created for this project.
 ![](/images/ER_diagram.png)
 
 #### R Shiny Dashboard
-**Project At A Glance**
 - Generated R script to scrape XML API hygiene rating data from UK Food Standard Agency API
 - Used dplyr to clean and format > 500,000 observations from Food Standard Agency  
 - Visualized geolocation data and hygiene business types and ratings using mapdeck and ggplot2, respectively
 
 ![](/images/shiny_dash_final.png)
 
-### Business Statistics 
-
-**Project At A Glance**
+### [Business Statistics Assessment]
 - Determined effects new marketing campaign had on supermarket sales data 
 - Used null hypothesis testing and the estimation approach to determine the effects of predictor variables on the dependent variable, sales gain 
 - The new marketing campaign (intrial) influenced store's sales gain t(483.08) = -5.7173, P-value = 1.44e-08
 - The relationship between percent sales gain and the marketing campaign (intrial) and outlet type is statistically significant, but  staff turnover is not.   
 
-The chart below shows the 95% confidence intervals for percent sales gain for each store controlling for the outlet type, marketing campaign (intrial), and staff turnover.
+**95% confidence intervals for percent sales gain** of each store controlling for the outlet type, marketing campaign (intrial), and staff turnover.
 
 ![](/images/percent%20sales%20gain%20controlling%20for%20outlettype%20and%20staff%20turnover.png)
 
  
 ### [Advanced Data Analysis: MLR Analysis](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
-
-**Project At A Glance**
 - Used MLR in order to determine the influence of each predictor variable on the outcome variable
 - Found r-squared of each independent variable using loops
 - Rearranged data using dplyr to order variables in order of r-squared
