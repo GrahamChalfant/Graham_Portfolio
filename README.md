@@ -5,10 +5,10 @@
 
 ### [Dissertation: The Power of @realDonalTrump](https://github.com/GrahamChalfant/Dissertation_Power_Of_realDonalTrump)
 
-- Analyzed Trump’s 16,000 presidential tweets to measure their influence on his approval ratings
-- Created visually informative graphs displaying Trump’s Twitter activity and approval ratings over time 
-- Calculated Trump’s average daily Twitter sentiment using dplyr and a lexicon sentiment analysis approach 
-- Used linear regressions to determine strength of connection between Trump’s Twitter sentiment and approval ratings 
+- Analyzed Trump's 16,000 presidential tweets to measure their influence on his approval ratings
+- Created visually informative graphs displaying Trump's Twitter activity and approval ratings over time 
+- Calculated Trump's average daily Twitter sentiment using dplyr and a lexicon sentiment analysis approach 
+- Used linear regressions to determine the strength of the connection between Trump's Twitter sentiment and approval ratings 
 
 
 ![](/images/wordcloud_trump_twitter_sentiment.png)
@@ -40,7 +40,7 @@ Below is the ER diagram created for this project.
 - Determined effects new marketing campaign had on supermarket sales data 
 - Used null hypothesis testing and the estimation approach to determine the effects of predictor variables on the dependent variable, sales gain 
 - The new marketing campaign (intrial) influenced store's sales gain t(483.08) = -5.7173, P-value = 1.44e-08
-- The relationship between percent sales gain and the marketing campaign (intrial) and outlet type is statistically significant, but  staff turnover is not.   
+- The relationship between percent sales gain and the marketing campaign (intrial) and outlet type is statistically significant, but staff turnover is not.   
 
 **95% confidence intervals for percent sales gain** of each store controlling for the outlet type, marketing campaign (intrial), and staff turnover.
 
@@ -52,7 +52,7 @@ Below is the ER diagram created for this project.
 - Found r-squared of each independent variable using loops
 - Rearranged data using dplyr to order variables in order of r-squared
 - Created MLR adding each independent variable, one at a time, based on r-squared in descending order using a loop
-- Visualised MLR's adjusted r-squared by each variable added in order to determine the optimal number of variables 
+- Visualized MLR's adjusted r-squared by each variable added in order to determine the optimal number of variables 
 
 **Adjusted r-squared per variable added to MLR.** The final model needed to consider two things: total adjusted r-squared and the principal of parsimony. From the below image, I felt that the optimal model contained all variables until "TotalHours." This model had an adjusted r-squared which was 1% less than the maximum but contained three fewer variables. 
 
@@ -64,7 +64,7 @@ Below is the ER diagram created for this project.
 
 - Found optimal ML models by testing different parameter settings for each model, namely partition size, variable selection based on information gain, and various sampling methods
 - Defined best performing model using accuracy, recall, f-score, and precision
-- Created cost matrices for based on business problem to estimate profit for each model in a high and low cost scenario 
+- Created cost matrices based on business problem to estimate profit for each model in a high and low-cost scenario 
 
 
 ![](/images/AIP_Model_Comparison.png)
@@ -79,5 +79,13 @@ Below is the ER diagram created for this project.
 - Led team of three to win the competition out of 500 students by assigning work, setting deadlines, framing the business problem, and coaching team on most effective way to present the data
 - Created visually impactful Excel workbook using conditional formatting, pivot tables, and INDEX MATCH
 - Presented project workbook and insights to the Pilot Merchandising team at the Pilot headquarters
+
+
+   
+
+
+
+
+
 
 
