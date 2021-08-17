@@ -13,8 +13,11 @@
 Below is a wordcloud of Trump's most frequently used positive and negative tweets. 
 ![](/images/wordcloud_trump_twitter_sentiment.png)
 
-### [Social Determinates of Health]
--
+### [Social Determinates of Health](https://github.com/GrahamChalfant/Social_Determinants_Of_Health)
+
+- Analyzed patient data using dplyr and ggplot to uncover insights
+- Average patient cost increases with age for males  
+- Hospital discharge costs, patient refined diagnosis related groups, and age are statistically significan predictors of length of stay (p-value < 0.05)
 
 
 ![](/images/average_cost_by_gender_and_age_group.png)
