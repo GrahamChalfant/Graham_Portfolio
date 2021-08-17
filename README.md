@@ -34,15 +34,15 @@ Below is the ER diagram created for this project.
 ### Business Statistics 
 
 **Project At A Glance**
-- Manupulated and Visualized supermarket transaction data
-- Used null hypthesis testing and the estimation approach to determine the effects of predictor variables on the dependent variable 
+- Determined effects new marketing campaign had on supermarket sales data 
+- Used null hypothesis testing and the estimation approach to determine the effects of predictor variables on the dependent variable, sales gain 
 - The new marketing campaign (intrial) influenced store's sales gain t(483.08) = -5.7173, P-value = 1.44e-08
-- Thh relationship between outlttype + intrial and percent sales gain is statistically significant   
+- The relationship between percent sales gain and the marketing campaign (intrial) and outlet type is statistically significant, but  staff turnover is not.   
 
-The chart below shows the 95% confidence intervals for sales gain percentage for each store controlling for the outlet type, marketing campaign (intrial), and staff turnover. 
+The chart below shows the 95% confidence intervals for percent sales gain for each store controlling for the outlet type, marketing campaign (intrial), and staff turnover.
 
 ![](/images/percent%20sales%20gain%20controlling%20for%20outlettype%20and%20staff%20turnover.png)
-a
+
  
 ### [Advanced Data Analysis: MLR Analysis](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
 
