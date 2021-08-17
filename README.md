@@ -29,7 +29,7 @@ Below is the ER diagram created for this project.
 - Used dplyr to clean and format > 500,000 observations from Food Standard Agency  
 - Visualized geolocation data and hygiene business types and ratings using mapdeck and ggplot2, respectively
 
-![](/images/shiny_dash_final.png | hight = 100)
+![](/images/shiny_dash_final.png)
 
 ### Business Statistics 
 
@@ -41,7 +41,7 @@ Below is the ER diagram created for this project.
 
 The chart below shows the 95% confidence intervals for sales gain percentage for each store controlling for the outlet type, marketing campaign (intrial), and staff turnover. 
 
-![](/images/percent%20sales%20gain%20controlling%20for%20outlettype%20and%20staff%20turnover.png)
+![](/images/percent%20sales%20gain%20controlling%20for%20outlettype%20and%20staff%20turnover.png | hight = 100)
 
  
 ### [Advanced Data Analysis: MLR Analysis](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
