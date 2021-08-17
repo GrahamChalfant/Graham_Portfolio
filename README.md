@@ -80,7 +80,7 @@ The graph below shows the two cost scenarios which were estimated based on annua
 - Created visually impactful Excel workbook using conditional formatting, pivot tables, and INDEX MATCH
 - Presented project workbook and insights to the Pilot Merchandising team at the Pilot headquarters
 
-This was my first experience with data analysis. The work itself is outdated, but its a great memory for me!
+This was my first experience with data analysis. The work is no longer a good representation of my current projects but it's a great memory for me!
 
 Below is an advanced filter I created with macros to show sales by month for specific bundles of goods. The idea was that if there was a spike in sales the same month a promotion was applied to said bundle, then the promotion had an impact. The image below is not filtered for a specific bundle of goods. From this we can see that item sales were fairly constant with hints of seasonality. 
 
