@@ -66,10 +66,10 @@ Below is the ER diagram created for this project.
 - Defined best performing model using accuracy, recall, f-score, and precision
 - Created cost matrices based on business problem to estimate profit for each model in a high and low-cost scenario 
 
-
+The graph below shows each models performance by partition on accuracy, f-score, precision, and recall. 
 ![](/images/AIP_Model_Comparison.png)
 
-
+The graph below shows the two cost scenarios which were estimated based on annual mortgage payments in the UK. 
 ![](/images/AIP_Confusion_Matrix_Costs.png)
 
 
