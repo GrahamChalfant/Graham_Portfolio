@@ -30,7 +30,7 @@ Below is the ER diagram created for this project.
 
 ![](/images/shiny_dash_final.png)
 
-### [Business Statistics Assessment]
+### [Business Statistics Assessment](https://github.com/GrahamChalfant/Business_Statistics)
 - Determined effects new marketing campaign had on supermarket sales data 
 - Used null hypothesis testing and the estimation approach to determine the effects of predictor variables on the dependent variable, sales gain 
 - The new marketing campaign (intrial) influenced store's sales gain t(483.08) = -5.7173, P-value = 1.44e-08
