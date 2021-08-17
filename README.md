@@ -15,6 +15,7 @@
 ### [Data_Management: Database Design and R Shiny Dashboard](https://github.com/GrahamChalfant/Data_Management_Project)
 
 #### Database Design
+**Project At A Glance**
 - Created an ER diagram in order to determine entities, relationships, and cardinalities 
 - Used diagram to guide database creation in r-studio using the RSQLite package
 - Entered fake data in order to run queries and test the database 
@@ -24,7 +25,7 @@ Below is the ER diagram created for this project.
 ![](/images/ER_diagram.png)
 
 #### R Shiny Dashboard
-
+**Project At A Glance**
 - Generated R script to scrape XML API hygiene rating data from UK Food Standard Agency API
 - Used dplyr to clean and format > 500,000 observations from Food Standard Agency  
 - Visualized geolocation data and hygiene business types and ratings using mapdeck and ggplot2, respectively
