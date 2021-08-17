@@ -13,11 +13,11 @@
 Below is a wordcloud of Trump's most frequently used positive and negative tweets. 
 ![](/images/wordcloud_trump_twitter_sentiment.png)
 
-### Social Determinates of Health 
+### [Social Determinates of Health]
 -
 
 
-![]()
+![](/images/average_cost_by_gender_and_age_group.png)
 
 
 
