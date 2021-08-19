@@ -17,7 +17,7 @@ Below is a wordcloud of Trump's most frequently used positive and negative tweet
 
 - Analyzed patient data using dplyr and ggplot
 - Average patient costs increase with age for males  
-- Hospital discharge costs, patient refined diagnosis related groups, and age are statistically significan predictors of length of stay (p-value < 0.05)
+- Hospital discharge costs, patient refined diagnosis-related groups, and age are statistically significant predictors of length of stay (p-value < 0.05)
 
 
 ![](/images/average_cost_by_gender_and_age_group.png)
@@ -71,12 +71,12 @@ Below is the ER diagram created for this project.
 
 - Found optimal ML models by testing different parameter settings for each model, namely partition size, variable selection based on information gain, and various sampling methods
 - Defined best performing model using accuracy, recall, f-score, and precision
-- Created cost matrices based on business problem to estimate profit for each model in a high and low-cost scenario 
+- Created cost matrices based on the business problem to estimate profit for each model in a high and low-cost scenario 
 
 The graph below shows each models performance by partition on accuracy, f-score, precision, and recall. 
 ![](/images/AIP_Model_Comparison.png)
 
-The graph below shows the two cost scenarios which were estimated based on annual mortgage payments in the UK. Profits would be mortgage payments recieved by the bank and costs are advertising costs. 
+The graph below shows the two cost scenarios, which were estimated based on annual mortgage payments in the UK. Profits would be mortgage payments received by the bank, and costs are advertising costs. 
 ![](/images/AIP_Confusion_Matrix_Costs.png)
 
 
@@ -87,18 +87,13 @@ The graph below shows the two cost scenarios which were estimated based on annua
 - Created visually impactful Excel workbook using conditional formatting, pivot tables, and INDEX MATCH
 - Presented project workbook and insights to the Pilot Merchandising team at the Pilot headquarters
 
-This was my first experience with data analysis. The work is no longer a good representation of my current projects but it's a great memory for me!
+This was my first experience with data analysis. The work is no longer a good representation of my current projects, but it is a great memory for me!
 
-Below is question four of four from the Excel workbook I submitted for the competition. It is an advanced filter which was created with macros to show sales by month for specific bundles of goods. The idea was that if there was a spike in sales the same month a promotion was applied to said bundle, then the promotion had an impact. The image below is not filtered for a specific bundle of goods. From this we can see that item sales were fairly constant with hints of seasonality. 
+Below is question four of four from the Excel workbook I submitted for the competition. It is an advanced filter that was created with macros to show sales by month for specific bundles of goods. The idea was that if there was a spike in sales the same month a promotion was applied to the said bundle, then the promotion had an impact. The image below is not filtered for a specific bundle of goods. From this, we can see that item sales were fairly constant with hints of seasonality. 
 
 ![](/images/pilot_flying_j_q4.png)
 
 
    
-
-a
-
-
-
 
 
