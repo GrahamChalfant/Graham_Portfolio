@@ -92,7 +92,7 @@ Below is the ER diagram created for this project.
 **95% confidence intervals for percent sales gain** of each store controlling for the outlet type, marketing campaign (intrial), and staff turnover.
 
 
-![](/images/percent%20sales%20gain%20controlling%20for%20outlettype%20and%20staff%20turnover.png)
+![](/images/percent_sales_gain_controlling_for_outlettype_and_staff_turnover.png)
 
  
  
