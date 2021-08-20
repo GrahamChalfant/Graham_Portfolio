@@ -22,7 +22,14 @@ Below is a wordcloud of Trump's most frequently used positive and negative tweet
 
 ![](/images/average_cost_by_gender_and_age_group.png)
 
+## [Stroke Prediction](https://github.com/GrahamChalfant/Stroke_Prediction)
 
+![](/images/stoke_by_age_and_gender.png)
+
+| Prediction  | Yes         | No          | 
+| ----------- | ----------- | ----------- | 
+| Yes         | 28          |  2          | 
+| No          | 13          |  1244       | 
 
 
 ### [Data_Management: Database Design and R Shiny Dashboard](https://github.com/GrahamChalfant/Data_Management_Project)
