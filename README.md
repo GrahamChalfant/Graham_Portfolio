@@ -1,4 +1,4 @@
-# Graham Chalfant's Projects
+# <div align="center"> Graham Chalfant's Projects
 
 ## About Me
 
@@ -25,9 +25,8 @@ Below is a wordcloud of Trump's most frequently used positive and negative tweet
 
 ### [Stroke Prediction](https://github.com/GrahamChalfant/Stroke_Prediction)
 
-- Used Random Forest to predict stokes
 - Built RF model with 98% accuracy using tuneRF() 
-- Confusion matrix indicates specificity of 68%
+- Correctly predicted 68% of actual strokes (specificity = 0.6829)
 - Oversampled the training set to account for data imbalance and low specificity (model did not improve)
 
 ![](/images/stoke_by_age_and_gender.png)
