@@ -33,7 +33,7 @@ Below is a wordcloud of Trump's most frequently used positive and negative tweet
 ![](/images/stoke_by_age_and_gender.png)
 
 | Prediction  | Yes         | No          | 
-| ----------- | ----------- | ----------- | 
+| ----------- | :---------: | :---------: | 
 | Yes         | 28          |  2          | 
 | No          | 13          |  1244       | 
 
