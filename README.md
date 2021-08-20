@@ -30,7 +30,7 @@ Below is a wordcloud of Trump's most frequently used positive and negative tweet
 - Oversampled the training set to account for data imbalance and low specificity (model did not improve)
 
 ![](/images/stoke_by_age_and_gender.png)
-<div align="center">
+
 | Prediction  | Yes         | No          | 
 | ----------- | :---------: | :---------: | 
 | Yes         | 28          |  2          | 
