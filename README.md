@@ -31,6 +31,8 @@ Below is a wordcloud of Trump's most frequently used positive and negative tweet
 
 ![](/images/stoke_by_age_and_gender.png)
 
+Confusion matrix of RF model
+
 | Prediction  | Yes         | No          | 
 | ----------- | :---------: | :---------: | 
 | Yes         | 28          |  2          | 
