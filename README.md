@@ -22,7 +22,13 @@ Below is a wordcloud of Trump's most frequently used positive and negative tweet
 
 ![](/images/average_cost_by_gender_and_age_group.png)
 
-## [Stroke Prediction](https://github.com/GrahamChalfant/Stroke_Prediction)
+
+### [Stroke Prediction](https://github.com/GrahamChalfant/Stroke_Prediction)
+
+- Used Random Forest to predict stokes
+- Built RF model with 98% accuracy using tuneRF() 
+- Confusion matrix indicates specificity of 68%
+- Oversampled the training set to account for data imbalance and low specificity (model did not improve)
 
 ![](/images/stoke_by_age_and_gender.png)
 
