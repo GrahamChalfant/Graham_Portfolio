@@ -3,6 +3,10 @@
 ## About Me
 
 
+---
+
+
+
 ### [Dissertation: The Power of @realDonalTrump](https://github.com/GrahamChalfant/Dissertation_Power_Of_realDonalTrump)
 
 - Analyzed Trump's 16,000 presidential tweets to measure their influence on his approval ratings
