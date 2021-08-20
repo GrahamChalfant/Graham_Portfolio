@@ -1,4 +1,4 @@
-# <div align="center"> Graham Chalfant's Projects
+#<div align="center">Graham Chalfant's Projects
 
 ## About Me
 
