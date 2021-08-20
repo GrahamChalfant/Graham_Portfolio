@@ -39,7 +39,7 @@ Confusion matrix of RF model
 | No          | 13          |  1244       | 
 
 
-### [Data_Management: Database Design and R Shiny Dashboard](https://github.com/GrahamChalfant/Data_Management_Project)
+### [Database Design and R Shiny Dashboard](https://github.com/GrahamChalfant/Data_Management_Project)
 
 #### Database Design
 - Created an ER diagram in order to determine entities, relationships, and cardinalities 
@@ -68,7 +68,7 @@ Below is the ER diagram created for this project.
 ![](/images/percent%20sales%20gain%20controlling%20for%20outlettype%20and%20staff%20turnover.png)
 
  
-### [Advanced Data Analysis: MLR Analysis](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
+### [MLR Variable Selection Visulization](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
 - Used MLR in order to determine the influence of each predictor variable on the outcome variable
 - Found r-squared of each independent variable using loops
 - Rearranged data using dplyr to order variables in order of r-squared
