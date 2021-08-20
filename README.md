@@ -12,6 +12,12 @@
 Below is a wordcloud of Trump's most frequently used positive and negative tweets. 
 ![](/images/wordcloud_trump_twitter_sentiment.png)
 
+
+
+---
+
+
+
 ### [Social Determinates of Health](https://github.com/GrahamChalfant/Social_Determinants_Of_Health)
 
 - Analyzed patient hospital records of inpatient samples to understand costs and their utilization 
@@ -19,6 +25,11 @@ Below is a wordcloud of Trump's most frequently used positive and negative tweet
 - Utilized regression analysis to determine statistically significant relationships between variables (p-value < 0.05)
 
 ![](/images/average_cost_by_gender_and_age_group.png)
+
+
+
+---
+
 
 
 ### [Stroke Prediction](https://github.com/GrahamChalfant/Stroke_Prediction)
@@ -35,6 +46,12 @@ Confusion matrix of RF model
 | ----------- | :---------: | :---------: | 
 | Yes         | 28          |  2          | 
 | No          | 13          |  1244       | 
+
+
+
+---
+
+
 
 
 ### [Database Design and R Shiny Dashboard](https://github.com/GrahamChalfant/Data_Management_Project)
@@ -57,6 +74,12 @@ Below is the ER diagram created for this project.
 
 ![](/images/shiny_dash_final.png)
 
+
+
+---
+
+
+
 ### [Business Statistics Assessment](https://github.com/GrahamChalfant/Business_Statistics)
 
 - Used Null Hypothesis Significant Testing and Estimation approach to measure influence marketing campaign had on grocery stores  
@@ -66,6 +89,11 @@ Below is the ER diagram created for this project.
 
 ![](/images/percent%20sales%20gain%20controlling%20for%20outlettype%20and%20staff%20turnover.png)
 
+ 
+ 
+ ---
+ 
+ 
  
 ### [MLR Variable Selection Visulization](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
 
@@ -79,6 +107,11 @@ Below is the ER diagram created for this project.
 
 ![](/images/multiple_lm_rsquared.png)
 
+ 
+ 
+ ---
+ 
+ 
  
  
 ### [Customer Transaction Prediction Project](https://github.com/GrahamChalfant/Customer_Transaction_Prediction_Project)
