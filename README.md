@@ -15,7 +15,7 @@ Currently, I am writing my thesis for a master's degree in business analytics an
 ### [Dissertation: The Power of @realDonalTrump](https://github.com/GrahamChalfant/Dissertation_Power_Of_realDonalTrump)
 
 - Analyzed Trump's 16,000 presidential tweets to measure their influence on his approval ratings
-- Calculated Trump's average daily Twitter sentiment using dplyr and a lexicon sentiment analysis approach 
+- Calculated Trump's average daily Twitter sentiment using the dplyr package and a lexicon sentiment analysis approach 
 - Used linear regressions to determine the strength of the connection between Trump's Twitter sentiment and approval ratings 
 
 Below is a wordcloud of Trump's most frequently used positive and negative tweets. 
@@ -29,8 +29,8 @@ Below is a wordcloud of Trump's most frequently used positive and negative tweet
 
 ### [Social Determinates of Health](https://github.com/GrahamChalfant/Social_Determinants_Of_Health)
 
-- Analyzed patient hospital records of inpatient samples to understand costs and their utilization 
-- Discovered various patient demographic and cost relationships, including average patient costs increase with age for males  
+- Analyzed hospital records of inpatient samples to understand their healthcare costs and utilization
+- Identified various relationships between patient demographics and costs, such as rising patient costs for men as they age 
 - Utilized regression analysis to determine statistically significant relationships between variables (p-value < 0.05)
 
 ![](/images/average_cost_by_gender_and_age_group.png)
@@ -67,9 +67,9 @@ Confusion matrix of RF model
 
 #### Database Design
 
-- Built SQL relational database based on hotel business problem 
-- Created ER diagram in order to determine entities, relationships, and cardinalities 
-- Used diagram to guide database creation in r-studio using the RSQLite package 
+- Built SQL relational database based on a hotel's business problem 
+- Created ER diagram to determine entities, relationships, and cardinalities
+- Used ER diagram to guide database creation in RStudio using the RSQLite package 
 
 Below is the ER diagram created for this project. 
 
@@ -77,9 +77,9 @@ Below is the ER diagram created for this project.
 
 #### R Shiny Dashboard
 
-- Generated R script to scrape XML API hygiene rating data from UK Food Standard Agency API
-- Used dplyr to clean and format > 500,000 observations from Food Standard Agency  
-- Visualized geolocation data and hygiene ratings and business types using mapdeck and ggplot2, respectively
+- Generated R script to scrape XML API hygiene rating data from the UK Food Standard Agency
+- Used the dplyr package to clean and format > 500,000 observations from Food 
+- Visualized geolocation data, hygiene ratings, and business types using the packages mapdeck and ggplot2
 
 ![](/images/shiny_dash_final.png)
 
@@ -91,7 +91,7 @@ Below is the ER diagram created for this project.
 
 ### [Business Statistics Assessment](https://github.com/GrahamChalfant/Business_Statistics)
 
-- Used Null Hypothesis Significant Testing and Estimation approach to measure influence marketing campaign had on grocery stores  
+- Used Null Hypothesis Significant Testing and Estimation approach to measure the influence a marketing campaign had on grocery stores  
 - The new marketing campaign (intrial) influenced grocery store's sales gain t(483.08) = -5.7173, P-value = 1.44e-08  
 
 **95% confidence intervals for percent sales gain** of each store controlling for the outlet type, marketing campaign (intrial), and staff turnover.
@@ -107,13 +107,13 @@ Below is the ER diagram created for this project.
  
 ### [MLR Variable Selection Visulization](https://github.com/GrahamChalfant/Advanced_Data_Analysis_Project)
 
-- Used MLR in order to determine the influence of each predictor variable on the outcome variable
+- Used MLR to determine the influence of each predictor variable on the outcome variable
 - Found r-squared of each independent variable using loops
-- Rearranged data using dplyr to order variables in order of r-squared
+- Rearranged data using the dplyr package to arrange variables in order of r-squared
 - Created MLR adding each independent variable, one at a time, based on r-squared in descending order using a loop
-- Visualized MLR's adjusted r-squared by each variable added in order to determine the optimal number of variables 
+- Visualized MLR's adjusted r-squared by each variable added to determine the optimal number of variables 
 
-**Adjusted r-squared per variable added to MLR.** The final model needed to consider two things: total adjusted r-squared and the principal of parsimony. From the below image, I felt that the optimal model contained all variables until "TotalHours." This model had an adjusted r-squared which was 1% less than the maximum but contained three fewer variables. 
+**Adjusted r-squared per variable added to MLR.** The final model needed to consider two things: total adjusted r-squared and the principle of parsimony. From the below image, I felt that the optimal model contained all variables until "TotalHours." This model had an adjusted r-squared which was 1% less than the maximum but contained three fewer variables.
 
 ![](/images/multiple_lm_rsquared.png)
 
@@ -130,9 +130,9 @@ Below is the ER diagram created for this project.
 - Defined best performing model using accuracy, recall, f-score, and precision
 - Created cost matrices based on the business problem to estimate profit for each model in a high and low-cost scenario 
 
-The graph below shows each models accuracy, f-score, precision, and recall. 
+The graph below shows each model's accuracy, f-score, precision, and recall. 
 ![](/images/AIP_Model_Comparison.png)
 
-The graph below shows the two cost scenarios which were estimated based on annual mortgage payments in the UK. Profits would be mortgage payments received by the bank, and costs are advertising costs. 
+The graph below shows the two cost scenarios, which were estimated based on annual mortgage payments in the UK. Profits would be mortgage payments received by the bank, and costs would be advertising costs. 
 ![](/images/AIP_Confusion_Matrix_Costs.png)
 
