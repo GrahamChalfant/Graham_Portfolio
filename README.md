@@ -1,7 +1,9 @@
 # Graham Chalfant's Projects
 
 ## About Me
+Hi! my name is Graham Chalfant. I am interested in the intersection of data science and health. 
 
+I am obtaining my master's degree in Business Analytics at the University of Warwick in Coventry, England. 
 
 ---
 
