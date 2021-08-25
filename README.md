@@ -3,7 +3,10 @@
 ## About Me
 Hi! my name is Graham Chalfant. I am interested in the intersection of data science and health. 
 
-I am obtaining my master's degree in Business Analytics at the University of Warwick in Coventry, England. 
+This repository contains my data science projects which I have completed for academic and self-learning purposes. I use RStuido for all of my projects and report them using RMarkdown. Aside from R, I also know SQL, and I am teaching myself HTML.
+
+Currently, I am writing a thesis for my master's degree in Business Analytics and building a personal blog using [HUGO](https://gohugo.io/).  
+
 
 ---
 
