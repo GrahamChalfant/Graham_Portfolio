@@ -12,8 +12,8 @@ This repository records the data science projects I have completed for academic 
 Currently, I am writing my thesis for a master's degree in business analytics and creating a personal blog using [HUGO](https://gohugo.io/) and Github Pages. 
 
 💼 [LinkedIn](https://www.linkedin.com/in/grahamchalfant97/)
-
 📬 [GrahamChalfant@gmail.com](grahamchalfant@gmail.com)
+
 ---
 
 
