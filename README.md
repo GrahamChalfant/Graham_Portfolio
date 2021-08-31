@@ -50,8 +50,10 @@ Below is a wordcloud of Trump's most frequently used positive and negative tweet
 ### [Stroke Prediction](https://github.com/GrahamChalfant/Stroke_Prediction)
 
 - Built RF model with 98% accuracy using tuneRF() 
+- Oversampled training set using ROSE package to account for data imbalance and low specificity 
 - Correctly predicted 68% of actual strokes (specificity = 0.6829)
-- Oversampled training set using ROSE package to account for data imbalance and low specificity (model did not improve)
+
+
 
 ![](/images/stoke_by_age_and_gender.png)
 
@@ -73,9 +75,10 @@ Confusion matrix of RF model
 
 #### Database Design
 
-- Built SQL relational database based on a hotel's business problem 
-- Created ER diagram to determine entities, relationships, and cardinalities
-- Used ER diagram to guide database creation in RStudio using the RSQLite package 
+- Collaborated with a five-person, international team to engineer a SQL relational database from a business problem 
+- Advised a DB design by producing an E-R diagram to identify entities, relationships, cardinalities, and attributes 
+- Created logical design while adhering to 3NF and then physical design using SQL DDL 
+
 
 Below is the ER diagram created for this project. 
 
@@ -84,7 +87,7 @@ Below is the ER diagram created for this project.
 #### R Shiny Dashboard
 
 - Generated R script to scrape XML API hygiene rating data from the UK Food Standard Agency
-- Used the dplyr package to clean and format > 500,000 observations from Food 
+- Used the dplyr package to clean and format > 400,000 observations from Food Standard Agency 
 - Visualized geolocation data, hygiene ratings, and business types using the packages mapdeck and ggplot2
 
 ![](/images/shiny_dash_final.png)
