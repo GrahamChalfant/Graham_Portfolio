@@ -14,6 +14,8 @@ Currently, I am writing my thesis for a master's degree in business analytics an
 💼 [LinkedIn](https://www.linkedin.com/in/grahamchalfant97/)
 📬 [GrahamChalfant@gmail.com](mailto:grahamchalfant@gmail.com)
 
+
+
 ---
 
 
@@ -31,19 +33,6 @@ Below is a wordcloud of Trump's most frequently used positive and negative tweet
 
 ---
 
-
-
-### [Social Determinates of Health](https://github.com/GrahamChalfant/Social_Determinants_Of_Health)
-
-- Analyzed hospital records of inpatient samples to understand their healthcare costs and utilization
-- Identified various relationships between patient demographics and costs, such as rising patient costs for men as they age 
-- Utilized regression analysis to determine statistically significant relationships between variables (p-value < 0.05)
-
-![](/images/average_cost_by_gender_and_age_group.png)
-
-
-
----
 
 
 
@@ -68,6 +57,20 @@ Confusion matrix of RF model
 
 ---
 
+
+### [Business Statistics Assessment](https://github.com/GrahamChalfant/Business_Statistics)
+
+- Used Null Hypothesis Significant Testing and Estimation approach to measure the influence a marketing campaign had on grocery stores  
+- The new marketing campaign (intrial) influenced grocery store's sales gain t(483.08) = -5.7173, P-value = 1.44e-08  
+
+**95% confidence intervals for percent sales gain** of each store controlling for the outlet type, marketing campaign (intrial), and staff turnover.
+
+
+![](/images/percent_sales_gain_controlling_for_outlettype_and_staff_turnover.png)
+
+
+ 
+ ---
 
 
 
@@ -98,19 +101,17 @@ Below is the ER diagram created for this project.
 
 
 
-### [Business Statistics Assessment](https://github.com/GrahamChalfant/Business_Statistics)
+### [Social Determinates of Health](https://github.com/GrahamChalfant/Social_Determinants_Of_Health)
 
-- Used Null Hypothesis Significant Testing and Estimation approach to measure the influence a marketing campaign had on grocery stores  
-- The new marketing campaign (intrial) influenced grocery store's sales gain t(483.08) = -5.7173, P-value = 1.44e-08  
+- Analyzed hospital records of inpatient samples to understand their healthcare costs and utilization
+- Identified various relationships between patient demographics and costs, such as rising patient costs for men as they age 
+- Utilized regression analysis to determine statistically significant relationships between variables (p-value < 0.05)
 
-**95% confidence intervals for percent sales gain** of each store controlling for the outlet type, marketing campaign (intrial), and staff turnover.
+![](/images/average_cost_by_gender_and_age_group.png)
 
 
-![](/images/percent_sales_gain_controlling_for_outlettype_and_staff_turnover.png)
 
- 
- 
- ---
+---
  
  
  
