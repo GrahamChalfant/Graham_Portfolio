@@ -60,7 +60,7 @@ Confusion matrix of RF model
 ---
 
 
-### [Business Statistics Assessment](https://github.com/GrahamChalfant/Business_Statistics)
+### [Marketing Campaign Effectiveness](https://github.com/GrahamChalfant/Business_Statistics)
 
 - Used Null Hypothesis Significant Testing and Estimation approach to measure the influence a marketing campaign had on grocery stores  
 - The new marketing campaign (intrial) influenced grocery store's sales gain t(483.08) = -5.7173, P-value = 1.44e-08  
