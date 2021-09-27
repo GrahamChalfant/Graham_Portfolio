@@ -20,11 +20,12 @@ I am currently writing my thesis for a master's degree in business analytics, an
 
 
 
-### [Dissertation: The Power of @realDonalTrump](https://github.com/GrahamChalfant/Dissertation_Power_Of_realDonalTrump)
+### [Dissertation: Sentiment Analysis of Trump's Twitter](https://github.com/GrahamChalfant/Dissertation_Power_Of_realDonalTrump)
 
-- Analyzed Trump's 16,000 presidential tweets to measure their influence on his approval ratings
-- Calculated Trump's average daily Twitter sentiment using the dplyr package and a lexicon sentiment analysis approach 
-- Used linear regressions to determine the strength of the connection between Trump's Twitter sentiment and approval ratings 
+- Objective, non-political analysis of Trump's Twitter
+- Analyzed Trump's 16,433 presidential tweets to measure their influence on his approval ratings
+- Manipulated Trump's 27,861 significant Twitter tokens to visualize their sentiment, frequency, and usage over time
+- Used linear regressions to test the significance of Trump's Twitter sentiment (p-value < 0.05) 
 
 Below is a wordcloud of Trump's most frequently used positive and negative tweets. 
 ![](/images/wordcloud_trump_twitter_sentiment.png)
