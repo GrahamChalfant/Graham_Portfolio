@@ -94,7 +94,7 @@ Below is the ER diagram created for this project.
 
 
 
-#### [R Shiny Dashboard](https://github.com/GrahamChalfant/Data_Management_Project)
+### [R Shiny Dashboard](https://github.com/GrahamChalfant/Data_Management_Project)
 
 - Generated R script to scrape XML API hygiene rating data from the UK Food Standard Agency
 - Used the dplyr package to clean and format > 400,000 observations from Food Standard Agency 
