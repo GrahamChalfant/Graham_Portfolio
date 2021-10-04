@@ -77,9 +77,8 @@ Confusion matrix of RF model
 
 
 
-### [Database Design and R Shiny Dashboard](https://github.com/GrahamChalfant/Data_Management_Project)
+### [Database Design](https://github.com/GrahamChalfant/Data_Management_Project)
 
-#### Database Design
 
 - Collaborated with a five-person, international team to engineer a SQL relational database from a business problem 
 - Advised a DB design by producing an E-R diagram to identify entities, relationships, cardinalities, and attributes 
@@ -90,7 +89,12 @@ Below is the ER diagram created for this project.
 
 ![](/images/ER_diagram.png)
 
-#### R Shiny Dashboard
+
+---
+
+
+
+#### [R Shiny Dashboard](https://github.com/GrahamChalfant/Data_Management_Project)
 
 - Generated R script to scrape XML API hygiene rating data from the UK Food Standard Agency
 - Used the dplyr package to clean and format > 400,000 observations from Food Standard Agency 
