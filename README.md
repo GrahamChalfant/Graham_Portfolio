@@ -151,5 +151,5 @@ The graph below shows each model's accuracy, f-score, precision, and recall.
 ![](/images/AIP_Model_Comparison.png)
 
 The graph below shows the two cost scenarios, which were estimated based on annual mortgage payments in the UK. Profits would be mortgage payments received by the bank, and costs would be advertising costs. 
-![](/images/AIP_Confusion_Matrix_Costs.png)
+![](/images/AIP_Confusion_Matrix_Costs.png) 
 
