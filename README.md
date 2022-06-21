@@ -5,11 +5,9 @@
 
 
 ## About Me
-Hi! My name is Graham Chalfant, and I love helping others solve their business problems using data. 
+Hi! My name is Graham Chalfant, and I love the intersection of health and data. 
 
 This repository records the data science projects I have completed for academic and self-learning purposes. I use RStuido for all of my projects and report them using RMarkdown. Along with R, I also know SQL, and I'm learning HTML.
-
-I am currently writing my thesis for a master's degree in business analytics, and I am creating a personal blog using [HUGO](https://gohugo.io/) and Github Pages. 
 
 💼 [LinkedIn](https://www.linkedin.com/in/grahamchalfant97/)
 📬 [GrahamChalfant@gmail.com](mailto:grahamchalfant@gmail.com)
