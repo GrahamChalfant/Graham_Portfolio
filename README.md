@@ -5,7 +5,7 @@
 
 
 ## About Me
-Hi! My name is Graham Chalfant, and I love the intersection of health and data. 
+Hi, my name is Graham! 
 
 This repository records the data science projects I have completed for academic and self-learning purposes. I use RStuido for all of my projects and report them using RMarkdown. Along with R, I also know SQL, and I'm learning HTML.
 
